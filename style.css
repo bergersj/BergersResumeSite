@@ -1,0 +1,77 @@
+.row .jumbotron {
+  background-image: url("img/nz03.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  border-radius: 3px;
+  margin-bottom: 0px;
+  padding-bottom: 75px;
+  padding-top: 1%;
+}
+.row .jumbotron h1 {
+  color: white;
+  margin-left: 3%;
+}
+
+.row .jumbotron p {
+  color: rgb(59, 64, 64);
+  margin-left: 3%;
+}
+
+.row .jumbotron {
+  padding-bottom: 180px;
+}
+
+.home-page {
+  background-image: url("img/nz03.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.row .page-header h1 {
+  color: white;
+  margin-left: 3%;
+}
+
+.non-index-header {
+  margin-right: 30px;
+  font-size: 50px;
+}
+
+.row .page-header {
+  border: none;
+}
+
+.navbar-default, .active {
+  background-color: rgba(247, 245, 245, 0.79) !important;
+}
+
+.navbar-default .navbar-brand {
+  margin-left: 15px !important;
+}
+
+
+.facepic {
+  height: 150px;
+  width: 100px;
+  margin: 10px;
+  padding-left: 10px;
+}
+
+.about-caption {
+  border-style: none;
+  padding-left: 25px;
+  padding-right: 50px;
+}
+
+.row .resume-info {
+  margin-left: 25px;
+}
+
+.resume-doc {
+  width: 92%;
+  padding: 0;
+  margin: 4%;
+  border: none;
+}
