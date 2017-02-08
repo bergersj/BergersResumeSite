@@ -66,12 +66,17 @@
 }
 
 .row .resume-info {
-  margin-left: 25px;
+  margin-left: 5px;
 }
 
 .resume-doc {
   width: 92%;
+  height: 300px;
   padding: 0;
   margin: 4%;
   border: none;
+}
+
+body .row .resume-jt {
+  padding-bottom: 50px !important;
 }
