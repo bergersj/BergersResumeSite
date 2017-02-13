@@ -51,6 +51,13 @@
   margin-left: 15px !important;
 }
 
+.navbar-nav {
+  margin-left: 10px !important;
+}
+
+.navbar-toggle {
+  margin-right: 50px !important;
+}
 
 .facepic {
   height: 150px;
